@@ -1,7 +1,9 @@
  # TaxCalculatorDemo
  This is test demo project.
  Using .Net core 3.1
-		SQLite
+		    SQLite
+        swagger
+        Logger
 		
  The data bellow are some sample data for getting started quicly.
  

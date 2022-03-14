@@ -7,6 +7,5 @@ namespace TaxCalculatorDemo.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public virtual List<TaxPeriod> TaxPeriods { get; set; }
-
     }
 }
